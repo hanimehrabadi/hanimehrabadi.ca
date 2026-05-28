@@ -1541,8 +1541,11 @@ blockquote {
     display: inline-block;
     margin-right: 0;
   }
-}
 #about .about-descr {
-  padding: 0 15px;
+  padding: 0 60px;
   width: 100%;
+}
+
+#about {
+  padding-top: 30px;
 }
