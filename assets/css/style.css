@@ -1540,12 +1540,13 @@ blockquote {
   .entry-comments-body span {
     display: inline-block;
     margin-right: 0;
-  }
+  #about {
+  padding-top: 30px !important;
+}
+
 #about .about-descr {
   padding: 0 60px;
   width: 100%;
-}
-
-#about {
-  padding-top: 30px;
+  max-width: 900px;
+  margin: 0 auto;
 }
