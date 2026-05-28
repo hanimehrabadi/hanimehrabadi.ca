@@ -1542,3 +1542,7 @@ blockquote {
     margin-right: 0;
   }
 }
+#about .about-descr {
+  padding: 0 15px;
+  width: 100%;
+}
